@@ -35,12 +35,6 @@ I'm David Valencia, a Robotics and Machine Learning Engineer. Welcome to my codi
 ## 📄 My Publications 
 You can find a full list of my academic work on my [Google Scholar profile](https://scholar.google.com/citations?user=JG4D8F0AAAAJ)
 
-## My webpage
-Want to dive deeper into my work? Visit my personal site for more details:
-
-👉 https://davidvalenciaredro.wixsite.com/my-site
-
-
 
 ## 📬 Contact Me
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/david-valencia-redrovan) 
