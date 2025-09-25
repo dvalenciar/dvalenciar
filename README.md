@@ -10,7 +10,7 @@ I'm David Valencia, a Robotics and Machine Learning Engineer. Welcome to my codi
 
 - I have a few academic publications and love bridging the gap between theory and practical innovation.
 
-- Currently based in Mount Maunganui, New Zealand.
+- Currently based in Auckland, New Zealand.
 
 - Always curious, always building.
 
