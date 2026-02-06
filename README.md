@@ -21,8 +21,6 @@ I'm David Valencia, a Robotics and Machine Learning Engineer. Welcome to my codi
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" alt="LangChain" width="100" height="60"/>
-<img src="https://github.com/langchain-ai/langgraph/blob/main/docs/docs/static/wordmark_dark.svg" alt="LangChain" width="100" height="60"/>
 </p>
 
 ## Projects
