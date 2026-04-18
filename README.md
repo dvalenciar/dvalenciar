@@ -36,7 +36,7 @@ You can find a full list of my academic work on my [Google Scholar profile](http
 
 
 ## Contact Me
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/david-valencia-redrovan) 
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/david-valencia-redrovan) 
 
 I’m pretty active there and happy to network, collaborate, or chat.
 
